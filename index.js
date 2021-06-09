@@ -2,7 +2,7 @@ var assert = require('assert');
 const { accessSync } = require('fs');
 const webdriver = require('selenium-webdriver');
 const { addConsoleHandler } = require('selenium-webdriver/lib/logging');
-const { go_to_url } = require('./findElement');
+// const { go_to_url } = require('./findElement');
 
 
 
